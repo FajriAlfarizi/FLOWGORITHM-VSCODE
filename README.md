@@ -48,9 +48,54 @@
 
 ![zain 2](https://user-images.githubusercontent.com/92989089/139188161-191c8548-eff0-47c4-bc93-8262d8693426.png)
 
-MARI KITA GUNAKAN VSCODE
+- KITA GUNAKAN VSCODE
 
-Buat program seperti dibawah ini (fahrenheit ke celcius)
+- Buat program seperti dibawah ini (fahrenheit ke celcius)
 
+![hasan 4](https://user-images.githubusercontent.com/92989089/139190786-4477251f-7ed4-4303-8ca0-26e9e2a414f9.png)
 
+- setelah itu jalankan program dan masukkan skala farenhit
+- output
 
+![hasan 5](https://user-images.githubusercontent.com/92989089/139190886-81a1bbc2-c001-4d3f-bc6c-36167c1aadc5.png)
+
+2 C. MENGKONVERSI SUHU KE CELCIUS KE REAMUR
+
+- kita harus membuat flowchart seperti dibawah ini
+
+![zain 4](https://user-images.githubusercontent.com/92989089/139192171-1a98e3d8-c535-493c-8424-4bbbee4f8c96.png)
+
+- jalankan kemudian masukkan skala celcius
+- output
+
+![zain5](https://user-images.githubusercontent.com/92989089/139192231-dd072da4-5ca2-49c3-8e74-4287c870604f.png)
+
+- KITA COBA DI VSCODE
+- Kita buat source code seperti dibawah ini
+
+![hasan 6](https://user-images.githubusercontent.com/92989089/139192434-7a445f96-c7e1-48af-8d45-72332f09075a.png)
+
+- lalu jalankan kemudian masukkan skala celcius
+- output
+
+![hasan 7](https://user-images.githubusercontent.com/92989089/139192537-132ed0a6-1fbc-445a-bd33-9b7cd79ee180.png)
+
+2 D. MENGKONVERSI SUHU DARI CELCIUS KE FAHRENHEIAT
+- Buat flowchart seperti gambar dibawah ini
+
+![zain 6](https://user-images.githubusercontent.com/92989089/139192661-c14491dd-86d7-4261-bae2-42b8343c7a49.png)
+
+- kemudian jalankan dan masukkan skala celcius
+- output fahrenheit
+
+![zain 7](https://user-images.githubusercontent.com/92989089/139192711-a8957c08-572b-47c1-8463-77ee7beba5a8.png)
+
+- KITA COBA DI VSCODE
+- Buat source code seperti gambar dibawah ini
+
+![hasan 8](https://user-images.githubusercontent.com/92989089/139192799-9cdb22cd-3156-4fbe-b2eb-3a2e295d2eae.png)
+
+- kemudian jalankan in terminal dan masukkan celcius
+- output fahrenheit
+
+![hasan9](https://user-images.githubusercontent.com/92989089/139192855-8109c639-9612-4e04-8ef4-682016a3f90d.png)

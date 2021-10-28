@@ -15,7 +15,12 @@
 
 - buat source code dahulu seperti gambar dibawah ini untuk mencari luas dan keliling persegi panjang
 
+![zain 12](https://user-images.githubusercontent.com/92989089/139195004-3e681d25-72ef-4a09-8694-b906250eb533.png)
 
+- lalu, run in terminal untuk menjalankan program menggunakan terminal
+- output
+
+![zain 13](https://user-images.githubusercontent.com/92989089/139195356-9c822aed-8c5a-493d-a541-4e27aabbbcb3.png)
 
 2 A . MENGKONVERSI SUHU DARI REAMUR KE CELCIUS DI FLOWGORITH
 
@@ -99,3 +104,5 @@
 - output fahrenheit
 
 ![hasan9](https://user-images.githubusercontent.com/92989089/139192855-8109c639-9612-4e04-8ef4-682016a3f90d.png)
+
+SEKIAN TERIMA KASIH WASSSALAM.

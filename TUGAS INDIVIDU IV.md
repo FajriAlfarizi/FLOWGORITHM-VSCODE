@@ -33,4 +33,20 @@
     - ketik ulang source code pada vscode kemudian run hingga menampilkan output seperti gambar dibawah ini : 
 
     ![Screenshot (135)](https://user-images.githubusercontent.com/92989089/139387851-65103762-0477-4c7f-9305-8febbac5bf22.png)
- 
+    
+3. Menghitung waktu tempuh Pak Yunanri W.st.M.Kom
+  - Pada Flowgorithm
+    - Membuat Flowchart dengan rules sesuai soal
+
+    ![Screenshot (137)](https://user-images.githubusercontent.com/92989089/139389784-c8dafe42-b464-4009-873a-932e847710a6.png)
+
+    - Kemudian jalankan hingga menampilkan output seperti ini : 
+
+    ![Screenshot (136)](https://user-images.githubusercontent.com/92989089/139389959-462eeb30-13d3-4e65-a165-9a42f39472de.png)
+    
+  - Source code pada python dan output
+    - ketik ulang source code pada vscode kemudian run hingga menampilkan output seperti pada gambar dibawah ini :
+
+    ![Screenshot (138)](https://user-images.githubusercontent.com/92989089/139390404-7a45c239-3263-4edf-9d3b-754ad1a85da0.png)
+
+
